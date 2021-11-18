@@ -9,6 +9,7 @@ public class Car {
 
 	private int speed;
 	private String name;
+	private int gasoline;
 	
 	
 	
