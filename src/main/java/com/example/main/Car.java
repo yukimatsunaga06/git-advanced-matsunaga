@@ -11,8 +11,7 @@ public class Car {
 	private String name;
 	
 	private int gasoline;
-	
-	
+	private String color;
 	
 	public int getGasoline() {
 		return gasoline;
