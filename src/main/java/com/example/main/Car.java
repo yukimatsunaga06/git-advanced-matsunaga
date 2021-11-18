@@ -9,9 +9,20 @@ public class Car {
 
 	private int speed;
 	private String name;
+	
 	private int gasoline;
 	private String color;
 	
+	public int getGasoline() {
+		return gasoline;
+	}
+
+
+	public void setGasoline(int gasoline) {
+		this.gasoline = gasoline;
+	}
+
+
 	public Car() {
 		
 	}
